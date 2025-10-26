@@ -39,3 +39,13 @@
 
 # debug information files
 *.dwo
+
+# Build artifacts
+/build/
+*.exe
+*.obj
+*.o
+
+# System
+.DS_Store
+Thumbs.db
